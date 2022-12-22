@@ -6,7 +6,7 @@
 
 
 ![IMG11](https://img.shields.io/badge/LIVE-LINK-yellow)
-![LINK](https://meek-cocada-cec154.netlify.app)
+[LINK](https://meek-cocada-cec154.netlify.app)
 
 ![IMG3](https://img.shields.io/badge/OUTPUTS-ACHIEVED-brightgreen)
 
